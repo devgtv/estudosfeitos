@@ -1,0 +1,2 @@
+#Refaça o desafio 35 dos triagnulos acrescentado o recuso de mostrar que tipo de triango sera formado#
+# equilaero : todos os lados iguais , isosceles : dois lados iguais , escaleno : todos os lados diferentes
