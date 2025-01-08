@@ -1,6 +1,6 @@
 #crie uma simples calculadora
-n1 = int(input('Digite um número'))
-n2 = int(input('Digite mais um número:'))
+n1 = int(input('Digite um número :'))
+n2 = int(input('Digite mais um número :'))
 s = n1+n2
 m = n1*n2
 d = n1/n2
