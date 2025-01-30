@@ -20,3 +20,4 @@ while True :
 print(f'O total gasto na compra foi de R${total_gasto:.2f}')
 print(f'Você tem {produto_1000} produtos acima de 1000 reais')
 print(f'O produto mais barato foi "{produto_mais_barato}" com o valor de R${valor_mais_barato:.2f}')
+
