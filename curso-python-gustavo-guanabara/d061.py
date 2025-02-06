@@ -12,4 +12,3 @@ while cont <= 10:
     cont = cont + 1
 print('Fim')
 
-

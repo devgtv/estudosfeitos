@@ -19,3 +19,5 @@ while resp in 'Ss':
 media = soma / quant
 print(f'Voce digitou {quant} números e a media foi {media}')
 print(f'O maior valor foi {maior} e o menor foi {menor}')
+
+
