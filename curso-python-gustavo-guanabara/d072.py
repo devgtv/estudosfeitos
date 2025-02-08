@@ -8,6 +8,6 @@ while True :
     n = int(input('Digite um número entre 0 e 20: '))
     if 0 <= n and n <=20 : 
         print(f'Digitate o número: {num[n]}') 
-    continuar = str(input('Deseja continuar [S/N]')).upper().strip()[0]
+    continuar = str(input('Deseja continuar [S/N]: ')).upper().strip()[0]
     if continuar in 'N': 
         break
